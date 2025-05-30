@@ -131,6 +131,16 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  {
+    title: 'The_Crown_of_Shadows',
+    author: 'J.M MURACHIA',
+    genre: 'Gothic Fiction',
+    published_year: 2024,
+    price: 10.99,
+    in_stock: true,
+    pages: 342,
+    publisher: 'Thomas Cautley Newby'
   }
 ];
 
